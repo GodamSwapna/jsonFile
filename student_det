@@ -1,0 +1,13 @@
+<!Doctype html>
+<html>
+<head>
+<title> STUDENT DETAILS<	itle>
+<\head>
+<body>
+<ul>
+<li>{'name': 'neelu', 'age': 21, 'qualification': 'bsc'}<\li>
+<li>{'name': 'neelu', 'age': 21, 'qualification': 'degree'}<\li>
+<li>{'name': 'neelu', 'age': 21, 'qualification': 'btec'}<\li>
+<li>{'name': 'neelu', 'age': 21, 'qualification': 'inter'}<\li>
+<body>
+<\html>
